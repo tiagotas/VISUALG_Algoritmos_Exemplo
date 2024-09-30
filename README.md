@@ -1,6 +1,6 @@
 Videoaulas
 
-# AULA 1 - APRENDENDO A PROGRAMAR - INSTALAÇÃO VISUALG
+## AULA 1 - APRENDENDO A PROGRAMAR - INSTALAÇÃO VISUALG
 - 00:00 Introdução
 - 01:30 Download do Visualg
 - 03:48 Instalação do Visualg
@@ -13,7 +13,7 @@ Videoaulas
 - 22:04 Abrindo o arquivo .alg
 - 24:21 Recurso Rodar Passo-a-Passo Visualg
 
-# AULA 2 - APRENDENDO A PROGRAMAR - ESTRUTURA DE DECISÃO "SE" NO VISUALG
+## AULA 2 - APRENDENDO A PROGRAMAR - ESTRUTURA DE DECISÃO "SE" NO VISUALG
 - 00:00 Introdução
 - 00:50 Trocando a fonte do Visualg
 - 02:11 Estrutura de Decisão SE
@@ -26,7 +26,7 @@ Videoaulas
 - 09:58 Estrutura de Decisão SE
 - 17:08 Estrutura SENÃO no Visualg
 
-# AULA 3 - APRENDENDO A PROGRAMAR - "SE ANINHADO" NO VISUALG
+## AULA 3 - APRENDENDO A PROGRAMAR - "SE ANINHADO" NO VISUALG
 - 00:00 Introdução
 - 01:43 Classificação no Visualg
 - 04:18 Declaração do SE Aninhado
