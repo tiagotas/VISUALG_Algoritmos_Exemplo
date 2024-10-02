@@ -2,6 +2,7 @@ Neste repositório estão os pseudo-códigos exemplo usado na série de videoaul
 Além das aulas, o Visualg usado também está disponível. Para testar os exemplos basta fazer o download do repositório e executar o Visualg
 
 ### AULA 1 - APRENDENDO A PROGRAMAR - INSTALAÇÃO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=CLiNnS92rCg&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=1)
 - 00:00 Introdução
 - 01:30 Download do Visualg
 - 03:48 Instalação do Visualg
@@ -15,6 +16,7 @@ Além das aulas, o Visualg usado também está disponível. Para testar os exemp
 - 24:21 Recurso Rodar Passo-a-Passo Visualg
 
 ## AULA 2 - APRENDENDO A PROGRAMAR - ESTRUTURA DE DECISÃO "SE" NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=22i3XdUDs00&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=2)
 - 00:00 Introdução
 - 00:50 Trocando a fonte do Visualg
 - 02:11 Estrutura de Decisão ```SE```
@@ -28,6 +30,7 @@ Além das aulas, o Visualg usado também está disponível. Para testar os exemp
 - 17:08 Estrutura ```SENÃO``` no Visualg
 
 ### AULA 3 - APRENDENDO A PROGRAMAR - "SE ANINHADO" NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=1FNz5binyQ0&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=3)
 - 00:00 Introdução
 - 01:43 Classificação no Visualg
 - 04:18 Declaração do ```SE``` Aninhado
@@ -41,15 +44,31 @@ Além das aulas, o Visualg usado também está disponível. Para testar os exemp
 - 18:53 Adicionando o último ```SE```
 
 ### AULA 4 - APRENDENDO A PROGRAMAR - "ESCOLHA CASO" NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=lwuu8W75YmE&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=4)
+
 ### AULA 5 - APRENDENDO A PROGRAMAR - ESTRUTURA DE REPETIÇÃO "PARA" NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=6Q33sIIdEXI&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=5)
+
 ### AULA 6 - APRENDENDO A PROGRAMAR - ESTRUTURA DE REPETIÇÃO "REPITA" NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=BMHrIP0BAmc&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=6)
+
 ### AULA 7 - APRENDENDO A PROGRAMAR - ESTRUTURA DE REPETIÇÃO "ENQUANTO" NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=ricnowNkEEA&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=7)
+
 ### AULA 8 - APRENDENDO A PROGRAMAR - COMO USAR VETORES NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=Re2EkJrY_jE&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=8)
+
 ### AULA 9 - APRENDENDO A PROGRAMAR - COMO USAR MATRIZES NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=LgURZZkFSpw&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=9)
+
 ### AULA 10 - APRENDENDO A PROGRAMAR - O QUE SÃO REGISTROS NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=nnXa7T9uMTg&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=10)
+
 ### AULA 11 - APRENDENDO A PROGRAMAR - FUNÇÕES E PROCEDIMENTOS NO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=X4Si-72sqIo&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=11)
 
 ### AULA 12 - APRENDENDO A PROGRAMAR - REGISTRO, FUNÇÕES, PROCEDIMENTOS E VETORES - TUDO JUNTO VISUALG
+#### 🔗 [ASSISTIR](https://www.youtube.com/watch?v=F7ypHg_qfco&list=PLHVpcBDJr5dnK52SZvuA-cAA3DnqRJ6nz&index=12)
 - 00:00 Introdução
 - 01:34 Sistema para Gerenciar Churrasco
 - 02:22 Menu de Navegação
